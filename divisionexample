@@ -5,7 +5,11 @@ public class Main
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
 		int a=sc.nextInt();
+<<<<<<< HEAD
 		int b=500;
+=======
+		int b=505;
+>>>>>>> 20722fcef941509e26fe066c2a0cbf4812059235
 		int c=a/b;
 		System.out.println(c);
 	}
